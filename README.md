@@ -1,9 +1,9 @@
 <div align="center">
-  <h5>
+  <p>
     <samp>>> [#] 6/16/2022 8:46 AM</samp><br>
     <samp>[耒] / sitting in the grass, watching my whole world reborn.</samp><br><br>
     <samp>地狱</samp>
-  </h5>
+  </p>
   <br>
   <br>
   <br>
