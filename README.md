@@ -1,7 +1,7 @@
 <div align="center">
   <p>
-    <samp>>> [#] 6/16/2022 8:46 AM</samp><br>
-    <samp>[耒] / sitting in the grass, watching my whole world reborn.</samp><br><br>
+    <samp>>> [#] 1/2/2022 3:18 AM</samp><br>
+    <samp>[耒] / medley for the second sky.</samp><br><br>
     <samp>地狱</samp>
   </p>
   <br>
